@@ -19,7 +19,7 @@
   "homepage": "https://github.com/shrek-7/github-hack#readme",
   "dependencies": {
     "jsonfile": "^5.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "random": "^2.1.1",
     "simple-git": "^1.126.0"
   }
